@@ -9,6 +9,8 @@
 
 - 🧑🏻‍💻 Projeto de Analise de Dados utilizando Linguagem SQL [SQL para Analise de Dados](https://medium.com/@gabriel.sobenk/sql-query-from-metabase-portfolio-1fde35be3a5f)
 
+- ⚠️ Favor visualizar os projetos por Desktop para evitar bugs
+
 - 📫 How to reach me **gabriel.sobenk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
