@@ -11,6 +11,8 @@
 
 - ⚠️ Favor visualizar os projetos por Desktop para evitar bugs
 
+- 🧑🏻‍💼 Quer alavancar sua empresa ou negocio? me chame pelo linkedin ou email abaixo.
+
 - 📫 How to reach me **gabriel.sobenk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
