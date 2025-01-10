@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sobenk</h1>
-<h3 align="center">This my portfólio de Analise de Business Intelligence</h3>
+<h3 align="center">This my portfólio de Analise de Business Intelligence (Simples e Objetivo)</h3>
 
 - 📊 Projeto de Criação de Relatório para um E-commerce utilizando POWER BI [ANÁLISE DE DADOS COM POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNzAzOTMwMzQtOGVhNS00MDY1LWFlODctMTI5NmU4MDU2ZmQ5IiwidCI6IjBiMjBhY2NmLThmNDAtNDc3ZC05ZDc4LWNmMGI5NWRkYjFhZCJ9)
 
