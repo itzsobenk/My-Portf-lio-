@@ -5,7 +5,7 @@
 
 - 📉 Projeto de Analise de Dados com Dashboard Inteligente e Moderno [Mini curso Analista de BI](https://app.powerbi.com/view?r=eyJrIjoiNzA0NzRkOTAtNzY3Ny00YjJmLWExNjktZDY2NTcwOTYxMTU5IiwidCI6IjBiMjBhY2NmLThmNDAtNDc3ZC05ZDc4LWNmMGI5NWRkYjFhZCJ9)
 
-- 🧑🏻‍💻 Projeto de Analise de Dados utilizando Linguagem SQL [SQL para Analise de Dados] (https://medium.com/@gabriel.sobenk/sql-query-from-metabase-portfolio-1fde35be3a5f)
+- 🧑🏻‍💻 Projeto de Analise de Dados utilizando Linguagem SQL [SQL para Analise de Dados](https://medium.com/@gabriel.sobenk/sql-query-from-metabase-portfolio-1fde35be3a5f)
 
 - 📫 How to reach me **gabriel.sobenk@gmail.com**
 
