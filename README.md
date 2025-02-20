@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sobenk</h1>
 <h3 align="center">This my portfólio de Analise de Business Intelligence (Simples e Objetivo)</h3>
 
-• 📂Projeto desenvolvido pegando Dados de vendas da Amazon India em 2022, e analise de problemas com taxa de cancelamento alto!
-- Nessa analise eu investiguei uma anomalia no faturamento entre pedidos entregues x cancelados, descobrindo que mais de 50% dos faturamento vem da soma de pedidos cancelados, sendo que o numero desses pedidos são apenas 20% do todo, para confirmar fiz a média do ticket dos pedidos cancelados e resultou em $29K, já os entregues $6K, isso quer dizer que há um grande problema com os produtos de ticket alto.
+• 📂 Relatório desenvolvido com Dados de vendas da Amazon India, e analise de problemas com taxa de cancelamento alto!
+- Nessa analise eu investiguei uma anomalia no faturamento entre pedidos entregues x cancelados, descobrindo que mais de 50% dos faturamento vem da soma de pedidos cancelados, sendo que o numero desses pedidos são apenas 20% do todo, para confirmar fiz a média do ticket dos pedidos cancelados e resultou em $29K, já os entregues $6K, isso indica que há um grande problema com os produtos de ticket alto e tem que ser solucionado o quanto antes.
 [https://app.powerbi.com/view?r=eyJrIjoiOTU1ZjUwYzUtYzEyZi00MWFmLWE5ZGYtOWJmYTg5NTg5OTE4IiwidCI6IjBiMjBhY2NmLThmNDAtNDc3ZC05ZDc4LWNmMGI5NWRkYjFhZCJ9]
 
 
